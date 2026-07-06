@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: green;
+    width: 30%;
+    margin: auto;
+}
+
+img {
+    width: 500px;
+    margin: 40px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+input,
+textarea {
+    width: 300px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: purple;
+}
